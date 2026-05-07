@@ -255,10 +255,8 @@ Universitas: *[isi nama universitas]*
 
 | Nama | NPM |
 |---|---|
-| *[Nama 1]* | *[NPM]* |
-| *[Nama 2]* | *[NPM]* |
-| *[Nama 3]* | *[NPM]* |
-| *[Nama 4]* | *[NPM]* |
+| *[Muhammad Aditya Rachman]* | *[2405040018]* |
+| *[Dhika Wahyu Permadi]* | *[2405040000]* |
 
 ---
 
